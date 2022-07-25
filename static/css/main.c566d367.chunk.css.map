@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAGA,KACE,YAAa,CACb,WAAY,CACZ,sBAAuB","file":"main.c566d367.chunk.css","sourcesContent":["// not empty\n//please write your scss\n\nbody {\n  height: 100vh;\n  width: 100vw;\n  border: 3px solid green;\n}\n"]}
